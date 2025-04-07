@@ -23,4 +23,4 @@ This project is a web-based application designed for Bakai Bank to manage, verif
 ### 🛠️ Installation & Setup
 1. Clone repository:
 ```bash
-git clone https://github.com/yourusername/bakai-bank-web-interface.git
+git clone https://github.com/JustRusslan/bakai-bank-web-interface.git

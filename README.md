@@ -18,7 +18,7 @@ This project is a web-based application designed for Bakai Bank to manage, verif
 - Python (Flask)
 
 **Database:**
-- Not because of confidentiality.
+- Relational Database Management System (details are confidential)
 
 ### 🛠️ Installation & Setup
 1. Clone repository:

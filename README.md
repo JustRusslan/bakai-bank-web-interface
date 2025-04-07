@@ -1,2 +1,26 @@
-# bakai-bank-web-interface
-Web-based interface for managing and verifying bank guarantees, developed for Bakai Bank using Flask, PostgreSQL, HTML, CSS, and JavaScript.
+# Bakai Bank Web Interface
+
+### 🚀 Overview
+This project is a web-based application designed for Bakai Bank to manage, verify, and oversee bank guarantees. The platform supports role-based access control and provides functionalities for employees and moderators.
+
+### 📌 Features
+- View and manage bank guarantees
+- Pagination and advanced filtering
+- QR-code based verification
+- Role management interface for moderators
+- Responsive and intuitive UI
+
+### 🔧 Technology Stack
+**Frontend:**
+- HTML, CSS, JavaScript
+
+**Backend:**
+- Python (Flask)
+
+**Database:**
+- PostgreSQL
+
+### 🛠️ Installation & Setup
+1. Clone repository:
+```bash
+git clone https://github.com/yourusername/bakai-bank-web-interface.git

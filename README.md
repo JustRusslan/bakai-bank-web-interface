@@ -18,7 +18,7 @@ This project is a web-based application designed for Bakai Bank to manage, verif
 - Python (Flask)
 
 **Database:**
-- PostgreSQL
+- Not because of confidentiality.
 
 ### 🛠️ Installation & Setup
 1. Clone repository:
